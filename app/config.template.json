@@ -13,7 +13,7 @@
         "EnableSecurityFixAlert": true
     },
     "TeamSettings": {
-        "SiteName": "Mattermost",
+        "SiteName": "oneiros",
         "MaxUsersPerTeam": 50,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
@@ -31,7 +31,7 @@
         "AtRestEncryptKey": "7rAh6iwQCkV4cA1Gsg3fgGOXJAQ43QVg"
     },
     "LogSettings": {
-        "EnableConsole": false,
+        "EnableConsole": true,
         "ConsoleLevel": "INFO",
         "EnableFile": true,
         "FileLevel": "INFO",
